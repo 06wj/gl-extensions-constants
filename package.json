@@ -1,0 +1,24 @@
+{
+  "name": "gl-extensions-constants",
+  "version": "1.0.0",
+  "description": "WebGL 1.0 extensions constants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/06wj/gl-extensions-constants.git"
+  },
+  "keywords": [
+    "WebGL",
+    "extensions",
+    "constants"
+  ],
+  "author": "06wj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/06wj/gl-extensions-constants/issues"
+  },
+  "homepage": "https://github.com/06wj/gl-extensions-constants#readme"
+}
